@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Attend React JS Lectures",
+      "day": "2024-11-12T19:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "title": "Go to the Gym",
+      "day": "2024-11-14T19:00",
+      "reminder": false
+    }
+  ]
+}
